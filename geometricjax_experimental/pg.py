@@ -12,3 +12,7 @@ def hi():
 
 def func2():
     return "hello world 2"
+
+
+def func3():
+    return "hello world 3"
