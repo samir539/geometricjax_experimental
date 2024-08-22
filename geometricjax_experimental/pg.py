@@ -7,3 +7,7 @@ print("hello wolrd4")
 
 def hi():
     return "hello world"
+
+
+def func2():
+    return "hello world 2"
